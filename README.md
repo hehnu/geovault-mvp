@@ -12,4 +12,4 @@ A responsive web app that lets users input latitude and longitude coordinates, v
 
 ### Author
 Developed by Ashley Pleasant 
-[Figma Design: https://www.figma.com/make/qf3veZ2t0gLHK4Tfpt5ybu/GeoVault--trademarked--MVP-v0.1-%E2%80%93-Wireframe?node-id=0-1&t=8ZglTipZAVmMNfdZ-1]
+[Figma Design]: (https://www.figma.com/make/qf3veZ2t0gLHK4Tfpt5ybu/GeoVault--trademarked--MVP-v0.1-%E2%80%93-Wireframe?node-id=0-1&t=8ZglTipZAVmMNfdZ-1/)
